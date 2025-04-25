@@ -42,8 +42,8 @@ const Authenticate = () => {
       }),
       {
         pending: 'Logging...',
-        success: 'Logged in successfully 👌',
-        error: 'Encountered error 🤯',
+        success: 'Logged in successfully ',
+        error: 'Encountered error ',
       }
     )
   }

@@ -28,6 +28,8 @@ body {
   src: url("./font/Risque-Regular.ttf");
 }
 
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
